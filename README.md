@@ -34,3 +34,11 @@ Here are some ideas to get you started:
   <img width="45" height="40" alt="thiago-git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 </div>
+
+### Dados
+  
+<div style="display: inline_block">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodaurizio&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
