@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **MouraCass/MouraCass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianomoura&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianomoura&layout=compact&theme=dark&show)](https://github.com/MouraCass/github-readme-stats)
 
 </div>
