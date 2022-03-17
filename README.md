@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouracassiano&theme=dark&show_icons=true)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouracassiano&theme=dark&show_icons=true) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianomoura&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
