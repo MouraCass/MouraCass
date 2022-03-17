@@ -39,5 +39,9 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianomoura&layout=compact&theme=dark&show)](https://github.com/MouraCass/github-readme-stats)
-
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
+
+  
+  
+  <img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
