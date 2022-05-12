@@ -9,7 +9,7 @@ Seja bem vinda(o), me chamo Cassiano!
 </div>
 
 
-  ## ✨ Sobre mim   
+  <h3> ✨ Sobre mim </h2>   
  <p align="center">
  
   <a href="https://www.linkedin.com/in/moura-cassiano/">
