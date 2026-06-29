@@ -1,55 +1,120 @@
-<!-- **MouraCass/MouraCass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
-<!--  <img align="right" height="300px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png"> -->
+# 👋 Olá, eu sou o Cassiano Moura
 
-<div align='center'>
-<h2 align='center'> 
-Seja bem vinda(o), me chamo Cassiano!
-</h2>
-</div>
+### Cloud Support Engineer | AWS Cloud Practitioner | AWS User Group Leader Canoas
 
+Profissional de Tecnologia com mais de **5 anos de experiência** em ambientes corporativos globais, atuando com **Infraestrutura, Cloud Support, Gestão de Identidades, Troubleshooting, APIs REST e Análise de Causa Raiz (RCA)**.
 
-  <h3> ✨ Sobre mim </h2>   
- <p align="center">
- 
-  <a href="https://www.linkedin.com/in/moura-cassiano/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:cassiano980@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-  
-- 💻 Disponível e buscando oportunidades em Tecnologia.
-- 👨🏼‍💻 [Labenu](https://www.labenu.com.br/) - Em prévia de concluir o curso Full-Stack Developer. 🎓
-- 🎓 [Unisinos](https://www.unisinos.com.br) - 2° Semestre do bacharelado em Sistemas de Informação(graduação em Junho de 2024). 
-- 🌌 Extremamente motivado e em constante desenvolvimento de minhas habilidades e crescimento profissional.
+Ao longo da minha carreira tive a oportunidade de trabalhar em empresas como **Bosch, SAP, Rapidoc e Stefanini (Projeto Kraft Heinz)**, apoiando operações críticas de TI, ambientes SaaS e infraestrutura corporativa.
 
-<br>
+Hoje meu foco é construir uma carreira sólida em **Cloud Computing**, documentando publicamente minha evolução através de projetos práticos utilizando AWS.
 
-#
+---
 
-### Tecnologias
-  
-<div align="center" style="display: inline-block"><br>
-  <img align="center" alt="Cesar-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Cesar-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Cesar-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Cesar-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cesar-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Cesar-Material-UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Cesar-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Cesar-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-</div>
+# 🚀 Atualmente
 
-<br>
-<br>
-  
-  <p align="center">
-  <a href="https://github.com/MouraCass">
-    <img height="170em" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=MouraCass&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-<!--     <img height="170em" width="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraCass&layout=compact&theme=react" /> -->
-  </a>
-</p>
+* ☁️ AWS User Group Leader — Canoas
+* 🏅 AWS Certified Cloud Practitioner
+* 🎓 AWS re/Start Graduate
+* 📚 Formação AWS 5.0 (Arquitetura e Hands-on)
+* 🛠️ Construindo projetos práticos em AWS
+* 📖 Compartilhando conhecimento através do LinkedIn
+
+---
+
+# 🏗️ Minha Jornada em Cloud
+
+Meu objetivo não é apenas estudar AWS.
+
+Quero construir um portfólio que represente cenários próximos da realidade encontrados por profissionais de Cloud Support, Cloud Operations e Cloud Infrastructure.
+
+Cada projeto publicado neste GitHub será documentado com:
+
+* Arquitetura da solução
+* Objetivo do laboratório
+* Serviços AWS utilizados
+* Boas práticas de segurança
+* Custos envolvidos
+* Troubleshooting
+* Lições aprendidas
+* Melhorias futuras
+
+---
+
+# 📂 Projetos
+
+Em construção...
+
+Os primeiros projetos serão publicados nas próximas semanas.
+
+* 🚧 AWS Cloud Lab 01 — Linux, Docker, Git e GitHub
+* 🚧 AWS Cloud Lab 02 — VPC, IAM, EC2 e SSH
+* 🚧 AWS Cloud Lab 03 — S3, AWS CLI e Shell Script
+* 🚧 AWS Cloud Lab 04 — EC2, RDS, SSM e Automação
+
+---
+
+# 🛠️ Principais Competências
+
+### ☁️ Cloud
+
+AWS • IAM • EC2 • VPC • S3 • RDS
+
+### ⚙️ Infraestrutura
+
+Linux • Docker • Terraform • Git • GitHub
+
+### 🔍 Troubleshooting
+
+Splunk • RCA • APIs REST • Postman • SQL • Python
+
+### 🏢 Enterprise IT
+
+Azure AD • MFA • SSO • ITIL • SLA • ServiceNow • Jira
+
+---
+
+# 🌎 Enterprise Experience
+
+Durante minha trajetória profissional desenvolvi soluções e atuei em operações para empresas globais como:
+
+* Bosch
+* SAP
+* Stefanini (Kraft Heinz)
+* Rapidoc
+
+Principais competências desenvolvidas:
+
+* Incident Management
+* Identity & Access Management
+* Troubleshooting
+* Root Cause Analysis (RCA)
+* Enterprise Support
+* SaaS Platforms
+* Technical Documentation
+* Cross-functional Collaboration
+
+---
+
+# 🎯 Roadmap 2026
+
+* ✅ AWS Certified Cloud Practitioner
+* ✅ AWS re/Start Graduate
+* ✅ AWS User Group Leader
+* 🔄 Formação AWS 5.0
+* ⏳ Publicar 4 projetos completos em AWS
+* ⏳ Terraform
+* ⏳ CI/CD
+* ⏳ Kubernetes
+* 🎯 Conquistar minha primeira oportunidade profissional em Cloud Computing
+
+---
+
+# 📫 Vamos nos conectar
+
+💼 LinkedIn: https://www.linkedin.com/in/cassiano-moura-tech/
+
+📧 E-mail: [cassiano980@gmail.com](mailto:cassiano980@gmail.com)
+
+---
+
+> *"Cloud não é apenas aprender serviços. É desenvolver a capacidade de resolver problemas reais utilizando tecnologia."*
