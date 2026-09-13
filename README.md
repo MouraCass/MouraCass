@@ -139,21 +139,6 @@ A ideia não é apenas demonstrar que determinado serviço foi utilizado, mas mo
 ### ☁️ AWS Proactive Monitoring & Incident Alerting
 
 **CloudWatch + SNS + EC2 + AWS Billing**
-
-Implementação prática de uma solução de monitoramento e alertas utilizando Amazon CloudWatch e Amazon SNS.
-
-O projeto contempla:
-
-- Monitoramento de `CPUUtilization`
-- Monitoramento de `StatusCheckFailed`
-- CloudWatch Alarms
-- Alertas de Billing através de `EstimatedCharges`
-- Amazon SNS utilizando modelo Publish/Subscribe
-- Teste de carga sintética em Amazon Linux
-- Validação da transição `OK → ALARM`
-- Notificação automatizada por e-mail
-- Práticas de cleanup e FinOps
-
 📌 **[Ver projeto completo no GitHub](./aws-cloudwatch-sns-observability)**
 
 ---
@@ -164,32 +149,30 @@ O projeto contempla:
 
 - ✅ AWS Certified Cloud Practitioner
 - ✅ AWS re/Start Graduate
+- 🔄 AWS Certified Solutions Architect – Associate
 - 🔄 Formação AWS 5.0
-- 🔄 AWS Skill Builder — Hands-on
 
 ### Architecture & Infrastructure
 
-- 🎯 AWS Solutions Architect – Associate
-- 🔄 Projetos práticos em AWS
-- ⏳ Terraform
-- ⏳ Infrastructure as Code
-- ⏳ Networking & VPC
-- ⏳ Security & IAM
+☁️ AWS Solutions Architect  
+🧩 AWS Architecture  
+🌐 Amazon VPC  
+🔐 AWS IAM  
+🖥️ Amazon EC2  
+🗄️ Amazon S3  
+🛢️ Amazon RDS  
+🏗️ Terraform  
+📦 Infrastructure as Code
 
 ### Operations & Automation
 
-- ⏳ Cloud Monitoring & Observability
-- ⏳ Incident Response
-- ⏳ Automation
-- ⏳ CI/CD
-- ⏳ Containers
-- ⏳ Kubernetes
-
-### Career
-
-- 🎯 Primeira oportunidade profissional em Cloud
-- 🎯 Cloud Support / Cloud Operations / Cloud Infrastructure
-- 🚀 Evolução contínua para Cloud Engineering
+🚨 Incident Response  
+🔧 Automation  
+🔄 CI/CD  
+📊 Amazon CloudWatch  
+🔔 Amazon SNS  
+🐳 Docker & Containers  
+☸️ Kubernetes
 
 ---
 
@@ -209,7 +192,7 @@ Laboratórios e projetos práticos para transformar conhecimento teórico em exp
 
 Aplicação da minha experiência anterior em **Technical Support, troubleshooting, incident management e ambientes enterprise** dentro do contexto de Cloud.
 
-> **Meu objetivo não é apenas aprender Cloud. É transformar minha experiência em suporte enterprise em capacidade de operar, solucionar problemas e construir soluções em ambientes Cloud.**
+> **Meu objetivo é transformar minha experiência em suporte enterprise em capacidade de operar, solucionar problemas e construir soluções em ambientes Cloud.**
 
 ---
 
