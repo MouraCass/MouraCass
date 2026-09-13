@@ -2,7 +2,7 @@
 
 ### Technical Support Engineer | Cloud Support & AWS | Trilingual (PT/EN/ES)
 
-Profissional de Tecnologia com **5+ anos de experiência em Technical Support e Enterprise IT** atuando em ambientes corporativos globais (**Bosch, SAP, Stefanini(Kraft Heinz)**). Especialista em sustentação de ambientes críticos, troubleshooting N2/N3, gestão de incidentes (ITIL), RCA e observabilidade.
+Profissional de Tecnologia com **5+ anos de experiência em Technical Support e Enterprise IT** atuando em ambientes corporativos globais (**Bosch, SAP, Stefanini(Kraft Heinz)**). Especialista em sustentação de ambientes críticos, troubleshooting, gestão de incidentes (ITIL), RCA e observabilidade.
 
 Atualmente direcionando essa bagagem operacional para **Cloud Architecture & DevOps em Cloud**, combinando vivência prática de suporte corporativo com automação, confiabilidade e governança em nuvem.
 
