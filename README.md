@@ -2,9 +2,9 @@
 
 ### Technical Support Engineer | Cloud Support & AWS | Trilingual (PT/EN/ES)
 
-Profissional de Tecnologia com **5+ anos de experiência em Technical Support e Enterprise IT** atuando em ambientes corporativos globais (**Bosch, SAP, Stefanini / Kraft Heinz**). Especialista em sustentação de ambientes críticos, troubleshooting N2/N3, gestão de incidentes (ITIL), RCA e observabilidade.
+Profissional de Tecnologia com **5+ anos de experiência em Technical Support e Enterprise IT** atuando em ambientes corporativos globais (**Bosch, SAP, Stefanini(Kraft Heinz)**). Especialista em sustentação de ambientes críticos, troubleshooting N2/N3, gestão de incidentes (ITIL), RCA e observabilidade.
 
-Atualmente direcionando essa bagagem operacional para **Cloud Architecture & DevOps na AWS**, combinando vivência prática de suporte corporativo com automação, confiabilidade e governança em nuvem.
+Atualmente direcionando essa bagagem operacional para **Cloud Architecture & DevOps em Cloud**, combinando vivência prática de suporte corporativo com automação, confiabilidade e governança em nuvem.
 
 🌎 **Português (Nativo) | English (Professional) | Español (Professional)**
 
@@ -24,6 +24,7 @@ Atualmente direcionando essa bagagem operacional para **Cloud Architecture & Dev
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -58,11 +59,15 @@ Toda a documentação dos meus laboratórios é voltada a evidenciar decisões d
 
 ## 🏢 Trajetória Enterprise & Diferencial Operacional
 
-Minha transição para Arquitetura Cloud não começa do zero: ela parte de uma fundação sólida de **mais de 5 anos investigando sistemas corporativos de alta criticidade**:
+## 🏢 Trajetória Enterprise & Diferencial Operacional
 
-* **Resolução Sob Pressão:** Vivência real gerenciando incidentes críticos (N2/N3) com impacto direto em negócio e SLA rígido.
-* **Cultura de Causa Raiz:** Postura orientada a RCA (*Root Cause Analysis*), evitando paliativos e estruturando mitigação definitiva.
-* **Governança & Processos:** Domínio de esteiras ITIL, auditoria de acessos (IAM/SSO), integrações via APIs REST e análise profunda de logs para troubleshooting.
+Minha atuação em Nuvem não começa do zero: ela é alavancada por uma base de **mais de 5 anos investigando sistemas corporativos globais de missão crítica** (Bosch, SAP, Kraft Heinz). 
+
+* **Gerenciamento de Crise & Resolução Sob Pressão:** Condução de incidentes de severidade alta (P1/P2) impactando faturamento e operações contínuas, mantendo conformidade rígida com SLAs e comunicação transparente com stakeholders técnicos e de negócio.
+* **Diagnóstico Profundo & Cultura de RCA:** Abordagem investigativa focada em *Root Cause Analysis* — indo além do contorno temporário via análise detalhada de logs, correlacionamento de métricas e inspeção de tráfego de APIs REST (Postman/cURL).
+* **Visão de Ambiente Híbrido & Multi-Cloud:** Experiência prática na administração de identidades corporativas e segurança com **Azure AD (Entra ID)**, SSO e políticas de MFA/Acesso Condicional, integrando serviços locais e nuvem pública (**AWS e Azure**).
+* **Governança ITIL & Disciplina Operacional:** Domínio de processos consolidados via ServiceNow e Jira (Incident, Problem e Change Management), garantindo rastreabilidade técnica e homologação controlada antes de qualquer alteração em produção.
+* **Comunicação Global Trilingue:** Capacidade comprovada de atuar, documentar e colaborar tecnicamente em **Português, Inglês e Espanhol** em times distribuídos geograficamente.
 
 ---
 
