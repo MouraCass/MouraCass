@@ -1,119 +1,225 @@
 # 👋 Olá, eu sou o Cassiano Moura
 
-### Cloud Support Engineer | AWS Cloud Practitioner | AWS User Group Leader Canoas
+### Technical Support Engineer | Cloud Support & AWS | Trilingual (PT/EN/ES)
 
-Profissional de Tecnologia com mais de **5 anos de experiência** em ambientes corporativos globais, atuando com **Infraestrutura, Cloud Support, Gestão de Identidades, Troubleshooting, APIs REST e Análise de Causa Raiz (RCA)**.
+Profissional de Tecnologia com **5+ anos de experiência em Technical Support e Enterprise IT**, atuando em ambientes corporativos globais com **troubleshooting, incident management, RCA, APIs REST, observabilidade, identidade e infraestrutura**.
 
-Ao longo da minha carreira tive a oportunidade de trabalhar em empresas como **Bosch, SAP, Rapidoc e Stefanini (Projeto Kraft Heinz)**, apoiando operações críticas de TI, ambientes SaaS e infraestrutura corporativa.
+Ao longo da minha trajetória profissional, atuei em empresas como **Bosch, SAP, Rapidoc e Stefanini (Projeto Kraft Heinz)**, prestando suporte N2/N3 para ambientes críticos e usuários corporativos em diferentes contextos tecnológicos.
 
-Hoje meu foco é construir uma carreira sólida em **Cloud Computing**, documentando publicamente minha evolução através de projetos práticos utilizando AWS.
+Minha experiência inclui **Technical Support, Application Support, Incident Management, Root Cause Analysis, Azure AD, MFA, SSO, VPN, Microsoft 365, SQL, APIs REST, Postman, Splunk, ServiceNow e Jira**.
+
+Atualmente estou direcionando essa experiência para **Cloud Computing**, com foco em **AWS, Cloud Support, Cloud Operations e Cloud Infrastructure**, combinando minha experiência em suporte enterprise com formação, laboratórios práticos, projetos e preparação para a certificação AWS Solutions Architect – Associate.
+
+🌎 **Português (Native) | English (Professional) | Español (Professional)**
+
+---
+
+# ☁️ Professional Focus
+
+Meu objetivo é aplicar minha experiência em **Technical Support e operações enterprise** em ambientes Cloud, atuando na interseção entre:
+
+- ☁️ AWS & Cloud Infrastructure
+- 🔍 Troubleshooting & Observability
+- 🚨 Incident Management & RCA
+- 🔐 Identity & Access Management
+- 🐧 Linux & Infrastructure
+- 🔧 Automation & Infrastructure as Code
+- 📊 Monitoring & Operational Excellence
+
+Tenho particular interesse em cenários nos quais Cloud, infraestrutura e troubleshooting se encontram — utilizando conhecimento técnico para **investigar problemas, entender sua causa e construir soluções confiáveis e escaláveis**.
 
 ---
 
 # 🚀 Atualmente
 
-* ☁️ AWS User Group Leader — Canoas
-* 🏅 AWS Certified Cloud Practitioner
-* 🎓 AWS re/Start Graduate
-* 📚 Formação AWS 5.0 (Arquitetura e Hands-on)
-* 🛠️ Construindo projetos práticos em AWS
-* 📖 Compartilhando conhecimento através do LinkedIn
+- ☁️ **AWS User Group Leader — Canoas**
+- 🏅 **AWS Certified Cloud Practitioner**
+- 🎓 **AWS re/Start Graduate**
+- 📚 **Formação AWS 5.0 — Arquitetura & Hands-on**
+- 🎯 **AWS Certified Solutions Architect – Associate (SAA-C03) — Exam Scheduled**
+- 🧪 Construindo e documentando projetos práticos em AWS
+- 🛠️ Utilizando AWS Skill Builder para desenvolvimento hands-on
+- 🤝 Mentoria técnica e desenvolvimento de carreira em Cloud
+- 📖 Compartilhando aprendizados e projetos através do LinkedIn
 
 ---
 
-# 🏗️ Minha Jornada em Cloud
+# 🏢 Professional Experience
 
-Meu objetivo não é apenas estudar AWS.
+Minha transição para Cloud parte de uma base profissional construída ao longo de mais de cinco anos em ambientes enterprise.
 
-Quero construir um portfólio que represente cenários próximos da realidade encontrados por profissionais de Cloud Support, Cloud Operations e Cloud Infrastructure.
+### 🔹 Technical Support & Enterprise IT
 
-Cada projeto publicado neste GitHub será documentado com:
+Experiência profissional envolvendo:
 
-* Arquitetura da solução
-* Objetivo do laboratório
-* Serviços AWS utilizados
-* Boas práticas de segurança
-* Custos envolvidos
-* Troubleshooting
-* Lições aprendidas
-* Melhorias futuras
+- N2/N3 Technical Support
+- Application & SaaS Support
+- Incident Management
+- Root Cause Analysis (RCA)
+- SLA Management
+- Troubleshooting
+- Observability & Log Analysis
+- Identity & Access Management
+- REST APIs & Integrations
+- Technical Documentation
+- Cross-functional Collaboration
+- Global Enterprise Support
+
+### 🌎 Enterprise Environments
+
+Experiência em empresas e ambientes como:
+
+- **Bosch**
+- **SAP**
+- **Rapidoc**
+- **Stefanini — Kraft Heinz**
+
+Essa experiência me proporciona uma perspectiva diferente de quem está iniciando diretamente em Cloud: já possuo vivência profissional investigando incidentes, trabalhando com usuários e sistemas críticos, analisando evidências técnicas e atuando sob pressão operacional.
+
+Agora estou aplicando essa experiência ao ecossistema AWS.
 
 ---
 
-# 📂 Projetos
-
-Em construção...
-
-Os primeiros projetos serão publicados nas próximas semanas.
-
-* 🚧 AWS Cloud Lab 01 — Linux, Docker, Git e GitHub
-* 🚧 AWS Cloud Lab 02 — VPC, IAM, EC2 e SSH
-* 🚧 AWS Cloud Lab 03 — S3, AWS CLI e Shell Script
-* 🚧 AWS Cloud Lab 04 — EC2, RDS, SSM e Automação
-
----
-
-# 🛠️ Principais Competências
+# 🛠️ Technical Skills
 
 ### ☁️ Cloud
 
-AWS • IAM • EC2 • VPC • S3 • RDS
+AWS • IAM • EC2 • VPC • S3 • RDS • CloudWatch • SNS
 
-### ⚙️ Infraestrutura
+### ⚙️ Infrastructure
 
 Linux • Docker • Terraform • Git • GitHub
 
-### 🔍 Troubleshooting
+### 🔍 Troubleshooting & Observability
 
-Splunk • RCA • APIs REST • Postman • SQL • Python
+Splunk • CloudWatch • RCA • REST APIs • Postman • SQL • Log Analysis
 
-### 🏢 Enterprise IT
+### 🔐 Enterprise IT
 
-Azure AD • MFA • SSO • ITIL • SLA • ServiceNow • Jira
+Azure AD • MFA • SSO • Microsoft 365 • ITIL • SLA • ServiceNow • Jira
 
----
+### 🧑‍💻 Programming & Automation
 
-# 🌎 Enterprise Experience
+Python • SQL • Shell Script
 
-Durante minha trajetória profissional desenvolvi soluções e atuei em operações para empresas globais como:
+### 🌎 Languages
 
-* Bosch
-* SAP
-* Stefanini (Kraft Heinz)
-* Rapidoc
-
-Principais competências desenvolvidas:
-
-* Incident Management
-* Identity & Access Management
-* Troubleshooting
-* Root Cause Analysis (RCA)
-* Enterprise Support
-* SaaS Platforms
-* Technical Documentation
-* Cross-functional Collaboration
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Professional  
+🇪🇸 Spanish — Professional
 
 ---
 
-# 🎯 Roadmap 2026
+# 🏗️ Cloud Portfolio
 
-* ✅ AWS Certified Cloud Practitioner
-* ✅ AWS re/Start Graduate
-* ✅ AWS User Group Leader
-* 🔄 Formação AWS 5.0
-* ⏳ Publicar 4 projetos completos em AWS
-* ⏳ Terraform
-* ⏳ CI/CD
-* ⏳ Kubernetes
-* 🎯 Conquistar minha primeira oportunidade profissional em Cloud Computing
+Meu objetivo com este GitHub é transformar conhecimento em **evidências práticas de competência técnica**.
+
+Os projetos são construídos buscando representar cenários próximos daqueles encontrados em ambientes reais de **Cloud Support, Cloud Operations e Cloud Infrastructure**.
+
+Cada projeto busca documentar:
+
+- Arquitetura da solução
+- Problema ou cenário proposto
+- Serviços AWS utilizados
+- Processo de implementação
+- Testes e validações
+- Evidências técnicas
+- Troubleshooting
+- Segurança
+- Custos e FinOps
+- Lições aprendidas
+- Possíveis evoluções
+
+A ideia não é apenas demonstrar que determinado serviço foi utilizado, mas mostrar **como ele pode ser aplicado para resolver um problema operacional ou arquitetural**.
+
+---
+
+# 📂 Featured Projects
+
+### ☁️ AWS Proactive Monitoring & Incident Alerting
+
+**CloudWatch + SNS + EC2 + AWS Billing**
+
+Implementação prática de uma solução de monitoramento e alertas utilizando Amazon CloudWatch e Amazon SNS.
+
+O projeto contempla:
+
+- Monitoramento de `CPUUtilization`
+- Monitoramento de `StatusCheckFailed`
+- CloudWatch Alarms
+- Alertas de Billing através de `EstimatedCharges`
+- Amazon SNS utilizando modelo Publish/Subscribe
+- Teste de carga sintética em Amazon Linux
+- Validação da transição `OK → ALARM`
+- Notificação automatizada por e-mail
+- Práticas de cleanup e FinOps
+
+📌 **[Ver projeto completo no GitHub](./aws-cloudwatch-sns-observability)**
+
+---
+
+# 🧭 Cloud Roadmap
+
+### Foundation
+
+- ✅ AWS Certified Cloud Practitioner
+- ✅ AWS re/Start Graduate
+- 🔄 Formação AWS 5.0
+- 🔄 AWS Skill Builder — Hands-on
+
+### Architecture & Infrastructure
+
+- 🎯 AWS Solutions Architect – Associate
+- 🔄 Projetos práticos em AWS
+- ⏳ Terraform
+- ⏳ Infrastructure as Code
+- ⏳ Networking & VPC
+- ⏳ Security & IAM
+
+### Operations & Automation
+
+- ⏳ Cloud Monitoring & Observability
+- ⏳ Incident Response
+- ⏳ Automation
+- ⏳ CI/CD
+- ⏳ Containers
+- ⏳ Kubernetes
+
+### Career
+
+- 🎯 Primeira oportunidade profissional em Cloud
+- 🎯 Cloud Support / Cloud Operations / Cloud Infrastructure
+- 🚀 Evolução contínua para Cloud Engineering
+
+---
+
+# 📈 What I'm Building
+
+Minha evolução em Cloud está baseada em três pilares:
+
+### 📚 Knowledge
+
+Formação contínua em AWS, arquitetura, infraestrutura, segurança e operações Cloud.
+
+### 🧪 Hands-on
+
+Laboratórios e projetos práticos para transformar conhecimento teórico em experiência técnica.
+
+### 🌎 Professional Experience
+
+Aplicação da minha experiência anterior em **Technical Support, troubleshooting, incident management e ambientes enterprise** dentro do contexto de Cloud.
+
+> **Meu objetivo não é apenas aprender Cloud. É transformar minha experiência em suporte enterprise em capacidade de operar, solucionar problemas e construir soluções em ambientes Cloud.**
 
 ---
 
 # 📫 Vamos nos conectar
 
-💼 LinkedIn: https://www.linkedin.com/in/cassiano-moura-tech/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/cassiano-moura-tech/
 
-📧 E-mail: [cassiano980@gmail.com](mailto:cassiano980@gmail.com)
+📧 **E-mail:**  
+cassiano980@gmail.com
 
 ---
 
