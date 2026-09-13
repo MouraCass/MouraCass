@@ -2,208 +2,72 @@
 
 ### Technical Support Engineer | Cloud Support & AWS | Trilingual (PT/EN/ES)
 
-Profissional de Tecnologia com **5+ anos de experiência em Technical Support e Enterprise IT**, atuando em ambientes corporativos globais com **troubleshooting, incident management, RCA, APIs REST, observabilidade, identidade e infraestrutura**.
+Profissional de Tecnologia com **5+ anos de experiência em Technical Support e Enterprise IT** atuando em ambientes corporativos globais (**Bosch, SAP, Stefanini / Kraft Heinz**). Especialista em sustentação de ambientes críticos, troubleshooting N2/N3, gestão de incidentes (ITIL), RCA e observabilidade.
 
-Ao longo da minha trajetória profissional, atuei em empresas como **Bosch, SAP, Rapidoc e Stefanini (Projeto Kraft Heinz)**, prestando suporte N2/N3 para ambientes críticos e usuários corporativos em diferentes contextos tecnológicos.
+Atualmente direcionando essa bagagem operacional para **Cloud Architecture & DevOps na AWS**, combinando vivência prática de suporte corporativo com automação, confiabilidade e governança em nuvem.
 
-Minha experiência inclui **Technical Support, Application Support, Incident Management, Root Cause Analysis, Azure AD, MFA, SSO, VPN, Microsoft 365, SQL, APIs REST, Postman, Splunk, ServiceNow e Jira**.
-
-Atualmente estou direcionando essa experiência para **Cloud Computing**, com foco em **AWS, Cloud Support, Cloud Operations e Cloud Infrastructure**, combinando minha experiência em suporte enterprise com formação, laboratórios práticos, projetos e preparação para a certificação AWS Solutions Architect – Associate.
-
-🌎 **Português (Native) | English (Professional) | Español (Professional)**
+🌎 **Português (Nativo) | English (Professional) | Español (Professional)**
 
 ---
 
-# ☁️ Professional Focus
-
-Meu objetivo é aplicar minha experiência em **Technical Support e operações enterprise** em ambientes Cloud, atuando na interseção entre:
-
-- ☁️ AWS & Cloud Infrastructure
-- 🔍 Troubleshooting & Observability
-- 🚨 Incident Management & RCA
-- 🔐 Identity & Access Management
-- 🐧 Linux & Infrastructure
-- 🔧 Automation & Infrastructure as Code
-- 📊 Monitoring & Operational Excellence
-
-Tenho particular interesse em cenários nos quais Cloud, infraestrutura e troubleshooting se encontram — utilizando conhecimento técnico para **investigar problemas, entender sua causa e construir soluções confiáveis e escaláveis**.
-
----
-
-# 🚀 Atualmente
+## 🚀 Atuação & Certificações
 
 - ☁️ **AWS User Group Leader — Canoas**
 - 🏅 **AWS Certified Cloud Practitioner**
-- 🎓 **AWS re/Start Graduate**
-- 📚 **Formação AWS 5.0 — Arquitetura & Hands-on**
-- 🎯 **AWS Certified Solutions Architect – Associate (SAA-C03) — Exam Scheduled**
-- 🧪 Construindo e documentando projetos práticos em AWS
-- 🛠️ Utilizando AWS Skill Builder para desenvolvimento hands-on
-- 🤝 Mentoria técnica e desenvolvimento de carreira em Cloud
-- 📖 Compartilhando aprendizados e projetos através do LinkedIn
+- 🎓 **AWS re/Start Graduate (Escola da Nuvem)**
+- 📚 **Formação AWS — Arquitetura, DevOps & Hands-on**
+- 🎯 *Em preparação ativa para:* **AWS Certified Solutions Architect – Associate (SAA-C03)**
 
 ---
 
-# 🏢 Professional Experience
+## 🛠️ Tecnologias & Competências Técnicas
 
-Minha transição para Cloud parte de uma base profissional construída ao longo de mais de cinco anos em ambientes enterprise.
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔹 Technical Support & Enterprise IT
+### 🔍 Observabilidade & Troubleshooting
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Experiência profissional envolvendo:
-
-- N2/N3 Technical Support
-- Application & SaaS Support
-- Incident Management
-- Root Cause Analysis (RCA)
-- SLA Management
-- Troubleshooting
-- Observability & Log Analysis
-- Identity & Access Management
-- REST APIs & Integrations
-- Technical Documentation
-- Cross-functional Collaboration
-- Global Enterprise Support
-
-### 🌎 Enterprise Environments
-
-Experiência em empresas e ambientes como:
-
-- **Bosch**
-- **SAP**
-- **Rapidoc**
-- **Stefanini — Kraft Heinz**
-
-Essa experiência me proporciona uma perspectiva diferente de quem está iniciando diretamente em Cloud: já possuo vivência profissional investigando incidentes, trabalhando com usuários e sistemas críticos, analisando evidências técnicas e atuando sob pressão operacional.
-
-Agora estou aplicando essa experiência ao ecossistema AWS.
+### 🏢 Enterprise IT & Identidade
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
-# 🛠️ Technical Skills
+## 📂 Portfólio de Projetos Cloud (Hands-on)
 
-### ☁️ Cloud
+Toda a documentação dos meus laboratórios é voltada a evidenciar decisões de arquitetura, validação sob estresse (SRE), segurança e FinOps:
 
-AWS • IAM • EC2 • VPC • S3 • RDS • CloudWatch • SNS
-
-### ⚙️ Infrastructure
-
-Linux • Docker • Terraform • Git • GitHub
-
-### 🔍 Troubleshooting & Observability
-
-Splunk • CloudWatch • RCA • REST APIs • Postman • SQL • Log Analysis
-
-### 🔐 Enterprise IT
-
-Azure AD • MFA • SSO • Microsoft 365 • ITIL • SLA • ServiceNow • Jira
-
-### 🧑‍💻 Programming & Automation
-
-Python • SQL • Shell Script
-
-### 🌎 Languages
-
-🇧🇷 Portuguese — Native  
-🇺🇸 English — Professional  
-🇪🇸 Spanish — Professional
+| Projeto | Descrição da Arquitetura | Serviços & Competências | Link do Repositório |
+| :--- | :--- | :--- | :--- |
+| **AWS Proactive Monitoring & Alerting** | Pipeline de observabilidade com testes de carga Linux (`stress`), violação de thresholds e notificação multicanal. | `EC2`, `CloudWatch`, `Amazon SNS`, `FinOps`, `Linux` | [Acessar Projeto ↗](https://github.com/MouraCass/aws-cloudwatch-sns-observability) |
 
 ---
 
-# 🏗️ Cloud Portfolio
+## 🏢 Trajetória Enterprise & Diferencial Operacional
 
-Meu objetivo com este GitHub é transformar conhecimento em **evidências práticas de competência técnica**.
+Minha transição para Arquitetura Cloud não começa do zero: ela parte de uma fundação sólida de **mais de 5 anos investigando sistemas corporativos de alta criticidade**:
 
-Os projetos são construídos buscando representar cenários próximos daqueles encontrados em ambientes reais de **Cloud Support, Cloud Operations e Cloud Infrastructure**.
-
-Cada projeto busca documentar:
-
-- Arquitetura da solução
-- Problema ou cenário proposto
-- Serviços AWS utilizados
-- Processo de implementação
-- Testes e validações
-- Evidências técnicas
-- Troubleshooting
-- Segurança
-- Custos e FinOps
-- Lições aprendidas
-- Possíveis evoluções
-
-A ideia não é apenas demonstrar que determinado serviço foi utilizado, mas mostrar **como ele pode ser aplicado para resolver um problema operacional ou arquitetural**.
+* **Resolução Sob Pressão:** Vivência real gerenciando incidentes críticos (N2/N3) com impacto direto em negócio e SLA rígido.
+* **Cultura de Causa Raiz:** Postura orientada a RCA (*Root Cause Analysis*), evitando paliativos e estruturando mitigação definitiva.
+* **Governança & Processos:** Domínio de esteiras ITIL, auditoria de acessos (IAM/SSO), integrações via APIs REST e análise profunda de logs para troubleshooting.
 
 ---
 
-# 📂 Featured Projects
+## 📫 Vamos nos conectar?
 
-### ☁️ AWS Proactive Monitoring & Incident Alerting
-
-**CloudWatch + SNS + EC2 + AWS Billing**
-📌 **[Ver projeto completo no GitHub](./aws-cloudwatch-sns-observability)**
-
----
-
-# 🧭 Cloud Roadmap
-
-### Foundation
-
-- ✅ AWS Certified Cloud Practitioner
-- ✅ AWS re/Start Graduate
-- 🔄 AWS Certified Solutions Architect – Associate
-- 🔄 Formação AWS 5.0
-
-### Architecture & Infrastructure
-
-☁️ AWS Solutions Architect  
-🧩 AWS Architecture  
-🌐 Amazon VPC  
-🔐 AWS IAM  
-🖥️ Amazon EC2  
-🗄️ Amazon S3  
-🛢️ Amazon RDS  
-🏗️ Terraform  
-📦 Infrastructure as Code
-
-### Operations & Automation
-
-🚨 Incident Response  
-🔧 Automation  
-🔄 CI/CD  
-📊 Amazon CloudWatch  
-🔔 Amazon SNS  
-🐳 Docker & Containers  
-☸️ Kubernetes
-
----
-
-# 📈 What I'm Building
-
-Minha evolução em Cloud está baseada em três pilares:
-
-### 📚 Knowledge
-
-Formação contínua em AWS, arquitetura, infraestrutura, segurança e operações Cloud.
-
-### 🧪 Hands-on
-
-Laboratórios e projetos práticos para transformar conhecimento teórico em experiência técnica.
-
-### 🌎 Professional Experience
-
-Aplicação da minha experiência anterior em **Technical Support, troubleshooting, incident management e ambientes enterprise** dentro do contexto de Cloud.
-
-> **Meu objetivo é transformar minha experiência em suporte enterprise em capacidade de operar, solucionar problemas e construir soluções em ambientes Cloud.**
-
----
-
-# 📫 Vamos nos conectar
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/cassiano-moura-tech/
-
-📧 **E-mail:**  
-cassiano980@gmail.com
-
----
-
-> *"Cloud não é apenas aprender serviços. É desenvolver a capacidade de resolver problemas reais utilizando tecnologia."*
+* 💼 **LinkedIn:** [linkedin.com/in/cassiano-moura-tech](https://www.linkedin.com/in/cassiano-moura-tech/)
+* 📧 **E-mail:** [cassiano980@gmail.com](mailto:cassiano980@gmail.com)
+* 📍 **Localização:** Rio Grande do Sul, Brasil (Disponível para atuação Remota ou Híbrida)
