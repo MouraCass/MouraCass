@@ -75,4 +75,4 @@ Minha atuação em Nuvem não começa do zero: ela é alavancada por uma base de
 
 * 💼 **LinkedIn:** [linkedin.com/in/cassiano-moura-tech](https://www.linkedin.com/in/cassiano-moura-tech/)
 * 📧 **E-mail:** [cassiano980@gmail.com](mailto:cassiano980@gmail.com)
-* 📍 **Localização:** Rio Grande do Sul, Brasil (Disponível para atuação Remota ou Híbrida)
+* 📍 **Localização:** Rio Grande do Sul, Brasil (Disponível para atuação Remota, Híbrida e Presencial)
